@@ -1,5 +1,5 @@
 var ranomdized = Math.floor(Math.random() * 11);  
-function calculation()
+function compareGuess()
 {
     var guessedNumber = parseInt(document.getElementById("input").value);
     ranomdized;   
